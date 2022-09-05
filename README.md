@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Danil Chernov
+- 👀 I’m interested in Automation Testing with C#
+- 📫 Free to contact me in Telegram t.me/realdnchka
