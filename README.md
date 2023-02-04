@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Danil Chernov
-- 👀 I’m interested in Automation Testing with C#
+- 👋 Hi, I’m Danil Chernov and I'm an Automation QA Engineer
 - 📫 Free to contact me in Telegram t.me/realdnchka
